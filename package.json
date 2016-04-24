@@ -1,0 +1,30 @@
+{
+  "name": "try-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "tsc": "tsc",
+    "typings": "typings",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codsay/try-webpack.git"
+  },
+  "author": "dang.huu.hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codsay/try-webpack/issues"
+  },
+  "homepage": "https://github.com/codsay/try-webpack#readme",
+  "devDependencies": {
+    "html-loader": "^0.4.3",
+    "raw-loader": "^0.5.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1",
+    "webpack": "^1.13.0"
+  }
+}
