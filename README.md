@@ -1,6 +1,6 @@
 # try-webpack
 
-# This is a simple example about how to use using `webpack` to package out components.
+# This is a simple example about how to use `webpack` to package out components.
 
 * We will have 3 main modules
   * Common
